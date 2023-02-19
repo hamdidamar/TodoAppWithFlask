@@ -22,11 +22,4 @@ http://localhost:5000/detail/id --> Detay Sayfası <br/>
 ### Demo
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/39102004/79041908-15722a80-7bfc-11ea-9c3b-00f968eb6aae.PNG)
 
-## Geliştirici
-👤 **Hamdi DAMAR**
 
-- [Web Site](http://hamdidamar.com/?i=1)
-- [LinkedIn](https://www.linkedin.com/in/hamdi-damar-bb6a8b159/)
-- [Medium](https://medium.com/@damar14607)
-- [GitHub](https://github.com/hamdidamar)
-- [Twitter](https://twitter.com/DamarHamdi)
